@@ -1,66 +1,38 @@
-# Hey, I'm David 👋
+# Portfolio OS
 
-## Technical Writer — Cybersecurity | APIs | AI Systems
-
-> I design clarity for complex technical systems — turning cybersecurity, API, and AI architectures into documentation engineers can actually use in production.
+A structured technical documentation system for cybersecurity, API systems, and AI understanding.
 
 ---
 
-## 🧠 What I Do
+## SentinelIQ
 
-I help engineering teams understand, secure, and scale their systems through structured technical documentation.
+A cybersecurity intelligence system designed to model attack surfaces and identify vulnerabilities before deployment.
 
-My focus is not content writing — it is **engineering comprehension design**.
-
----
-
-## 🚀 Core Domains
-
-- Cybersecurity systems & threat modeling
-- API architecture & documentation design
-- AI / ML system explanation
-- Developer documentation engineering
+It focuses on understanding how systems can be broken before they are built.
 
 ---
 
-## 🔐 Flagship Work
+## Core Capabilities
 
-### SentinelIQ
-Cybersecurity intelligence system focused on attack surface modeling and vulnerability reasoning.
-
-It focuses on understanding how systems can be broken before they are deployed.
+- Attack surface modeling  
+- Threat reasoning simulation  
+- Vulnerability path analysis  
+- System behavior interpretation  
+- Security-focused system thinking  
 
 ---
 
-### API Security Knowledge Base
-Structured documentation system for modern API security in distributed systems.
+## API Security Knowledge Base
+
+A structured documentation system for modern API security in distributed systems.
 
 Covers authentication, authorization, rate limiting, and secure API design patterns.
 
 ---
 
-## 🧠 Thinking Approach
+## Purpose
 
-- Reduce ambiguity in complex systems
-- Improve developer understanding speed
-- Preserve technical accuracy
-- Structure knowledge for real-world implementation
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=drechi3&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-Email: drechimayne@gmail.com  
-LinkedIn: https://www.linkedin.com/in/igboanugo-david-ugochukwu-73136220b
-
----
-
-## 📌 GitHub
-
-https://github.com/drechi3
+This repository demonstrates structured thinking in:
+- Cybersecurity
+- API systems
+- Developer documentation design
