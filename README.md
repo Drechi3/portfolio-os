@@ -2,70 +2,94 @@
 
 ## Technical Writer — Cybersecurity | APIs | AI Systems
 
-> I translate complex technical systems into clear, production-ready understanding that engineers can actually use.
+> I translate complex technical systems into clear, usable, production-ready understanding for engineers and security teams.
 
 ---
 
-## 🧠 What I Do
+## 🚀 What I Do (Value First)
 
-I specialize in breaking down high-complexity systems — cybersecurity architectures, APIs, and AI systems — into structured documentation that improves understanding, security, and implementation.
+I help engineering teams and technical products become understandable, secure, and scalable through structured documentation.
 
-I don’t just write documentation.  
-I design **comprehension layers for technical systems**.
+My focus is not writing content — it is **engineering clarity into complex systems**.
 
 ---
 
-## ⚙️ Core Capabilities
+## 🧠 Core Specialization
 
-- Technical Documentation (APIs, Systems, Architecture)
-- Cybersecurity Concept Translation (Threats, SOC, Vulnerabilities)
+- Cybersecurity Systems & Threat Concepts
+- API Architecture & Documentation
 - AI / ML System Explanation
-- REST API Structure & Behavior Documentation
-- Developer Education Content Design
-- Research-driven Technical Writing
-- SEO-aligned Technical Content Strategy
+- Developer Documentation Design
+- Technical Knowledge Architecture
+
+---
+
+## ⚙️ What I Work On
+
+### 🔐 Security & Cyber Systems
+- Threat modeling concepts
+- SOC-style system thinking
+- Vulnerability interpretation
+
+### 🔌 API Systems
+- REST API structure documentation
+- Authentication & authorization flows
+- Scalable API behavior design
+
+### 🤖 AI Systems
+- Model explanation for developers
+- System-level AI understanding
+- Technical breakdown of ML workflows
 
 ---
 
 ## 🚀 Flagship Work
 
-### SentinelIQ — AI Security Intelligence System
-A conceptual cybersecurity intelligence system that models attack surfaces, simulates vulnerabilities, and produces SOC-style analysis outputs.
+### SentinelIQ (Security Intelligence System Concept)
+A structured system designed to simulate cybersecurity attack surfaces and generate structured security analysis.
 
-- Focus: Cybersecurity + AI Systems
-- Domain: Threat modeling, vulnerability mapping, system analysis
+**Focus:**
+- Cybersecurity intelligence modeling
+- System vulnerability analysis
+- AI-assisted security reasoning
 
 ---
 
 ### API Security Knowledge Base
-A structured documentation system focused on modern API security practices in cloud-native environments.
+A structured documentation system focused on modern API security in distributed systems.
 
-- Focus: API security architecture
-- Coverage: Authentication, authorization, rate limiting, abuse prevention
+**Focus:**
+- Authentication & authorization design
+- Rate limiting & abuse prevention
+- Cloud-native API security patterns
 
 ---
 
-## 🧠 Thinking Style
+## 🧠 How I Think
 
 I approach documentation as a system design problem:
 
-- Reduce cognitive load
+- Reduce ambiguity
 - Increase technical clarity
 - Preserve engineering accuracy
-- Optimize for real-world implementation understanding
+- Improve decision-making speed for developers
 
 ---
 
-## 📊 Professional Signal
+## 📊 Professional Identity
 
-- Cybersecurity-focused technical writer
-- API & system documentation specialist
-- AI systems explainer
-- Developer education content designer
+- Technical Writer (Cybersecurity + Systems)
+- API Documentation Specialist
+- AI Systems Explainer
+- Developer Education Content Designer
 
 ---
 
 ## 📫 Contact
 
-Built using Portfolio OS  
-CLI-driven technical identity system
+Available for:
+- Cybersecurity documentation roles
+- API documentation engineering
+- AI systems explanation work
+
+GitHub: https://github.com/drechi3
