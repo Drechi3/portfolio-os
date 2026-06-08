@@ -1,76 +1,41 @@
-# Igboanugo David Ugochukwu
+# Hey, I'm David 👋
 
 ## Technical Writer — Cybersecurity | APIs | AI Systems
 
-> I translate complex technical systems into clear, usable, production-ready understanding for engineers and security teams.
+> I design clarity for complex technical systems — turning cybersecurity, API, and AI architectures into documentation engineers can actually use in production.
 
 ---
 
-## 🚀 What I Do
+## 🧠 What I Do
 
-I help engineering teams and technical products become **clear, secure, and scalable** through structured documentation.
+I help engineering teams understand, secure, and scale their systems through structured technical documentation.
 
-My work focuses on engineering clarity into complex systems — not just writing documentation.
+My focus is not content writing — it is **engineering comprehension design**.
 
 ---
 
-## 🧠 Core Expertise
+## 🚀 Core Domains
 
-- Cybersecurity systems & threat concepts
-- API architecture & documentation
+- Cybersecurity systems & threat modeling
+- API architecture & documentation design
 - AI / ML system explanation
-- Developer documentation design
-- Technical knowledge structuring
+- Developer documentation engineering
 
 ---
 
-## ⚙️ Technical Focus Areas
+## 🔐 Flagship Work
 
-### 🔐 Cybersecurity & Systems
-- Threat modeling concepts
-- SOC-style analysis thinking
-- Vulnerability interpretation & explanation
+### SentinelIQ
+Cybersecurity intelligence system focused on attack surface modeling and vulnerability reasoning.
 
-### 🔌 API Systems
-- REST API structure documentation
-- Authentication & authorization flows
-- Scalable API design patterns
-
-### 🤖 AI Systems
-- ML system explanation for developers
-- AI workflow breakdowns
-- Technical interpretation of models
+It focuses on understanding how systems can be broken before they are deployed.
 
 ---
 
-## 🚀 Flagship Work
+### API Security Knowledge Base
+Structured documentation system for modern API security in distributed systems.
 
-### 🔐 SentinelIQ — Cybersecurity Intelligence System
-
-A structured security reasoning system designed to model attack surfaces, simulate vulnerabilities, and generate cybersecurity insights.
-
-Instead of detecting threats after they happen, SentinelIQ focuses on:
-
-> Understanding how systems can be broken before deployment.
-
-**Core Areas:**
-- Attack surface modeling
-- Threat reasoning simulation
-- Vulnerability path analysis
-- System behavior interpretation
-- AI-assisted security thinking
-
----
-
-### 🔌 API Security Knowledge Base
-
-A structured documentation system focused on modern API security practices in distributed and cloud-native environments.
-
-**Core Areas:**
-- Authentication & authorization design
-- Rate limiting strategies
-- API abuse prevention
-- Secure architecture patterns
+Covers authentication, authorization, rate limiting, and secure API design patterns.
 
 ---
 
@@ -85,20 +50,17 @@ A structured documentation system focused on modern API security practices in di
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=drechi3&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=drechi3&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-Open to opportunities in:
-- Technical Writing (Cybersecurity, APIs, AI Systems)
-- Developer Documentation Roles
-- Security Documentation / Knowledge Engineering
-
-**Email:** drechimayne@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/igboanugo-david-ugochukwu-73136220b
+Email: drechimayne@gmail.com  
+LinkedIn: https://www.linkedin.com/in/igboanugo-david-ugochukwu-73136220b
 
 ---
 
-GitHub: https://github.com/drechi3
+## 📌 GitHub
+
+https://github.com/drechi3
