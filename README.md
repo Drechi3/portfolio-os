@@ -6,90 +6,99 @@
 
 ---
 
-## 🚀 What I Do (Value First)
+## 🚀 What I Do
 
-I help engineering teams and technical products become understandable, secure, and scalable through structured documentation.
+I help engineering teams and technical products become **clear, secure, and scalable** through structured documentation.
 
-My focus is not writing content — it is **engineering clarity into complex systems**.
-
----
-
-## 🧠 Core Specialization
-
-- Cybersecurity Systems & Threat Concepts
-- API Architecture & Documentation
-- AI / ML System Explanation
-- Developer Documentation Design
-- Technical Knowledge Architecture
+My work focuses on engineering clarity into complex systems — not just writing documentation.
 
 ---
 
-## ⚙️ What I Work On
+## 🧠 Core Expertise
 
-### 🔐 Security & Cyber Systems
+- Cybersecurity systems & threat concepts
+- API architecture & documentation
+- AI / ML system explanation
+- Developer documentation design
+- Technical knowledge structuring
+
+---
+
+## ⚙️ Technical Focus Areas
+
+### 🔐 Cybersecurity & Systems
 - Threat modeling concepts
-- SOC-style system thinking
-- Vulnerability interpretation
+- SOC-style analysis thinking
+- Vulnerability interpretation & explanation
 
 ### 🔌 API Systems
 - REST API structure documentation
 - Authentication & authorization flows
-- Scalable API behavior design
+- Scalable API design patterns
 
 ### 🤖 AI Systems
-- Model explanation for developers
-- System-level AI understanding
-- Technical breakdown of ML workflows
+- ML system explanation for developers
+- AI workflow breakdowns
+- Technical interpretation of models
 
 ---
 
 ## 🚀 Flagship Work
 
-### SentinelIQ (Security Intelligence System Concept)
-A structured system designed to simulate cybersecurity attack surfaces and generate structured security analysis.
+### 🔐 SentinelIQ — Cybersecurity Intelligence System
 
-**Focus:**
-- Cybersecurity intelligence modeling
-- System vulnerability analysis
-- AI-assisted security reasoning
+A structured security reasoning system designed to model attack surfaces, simulate vulnerabilities, and generate cybersecurity insights.
+
+Instead of detecting threats after they happen, SentinelIQ focuses on:
+
+> Understanding how systems can be broken before deployment.
+
+**Core Areas:**
+- Attack surface modeling
+- Threat reasoning simulation
+- Vulnerability path analysis
+- System behavior interpretation
+- AI-assisted security thinking
 
 ---
 
-### API Security Knowledge Base
-A structured documentation system focused on modern API security in distributed systems.
+### 🔌 API Security Knowledge Base
 
-**Focus:**
+A structured documentation system focused on modern API security practices in distributed and cloud-native environments.
+
+**Core Areas:**
 - Authentication & authorization design
-- Rate limiting & abuse prevention
-- Cloud-native API security patterns
+- Rate limiting strategies
+- API abuse prevention
+- Secure architecture patterns
 
 ---
 
-## 🧠 How I Think
+## 🧠 Thinking Approach
 
-I approach documentation as a system design problem:
-
-- Reduce ambiguity
-- Increase technical clarity
-- Preserve engineering accuracy
-- Improve decision-making speed for developers
+- Reduce ambiguity in complex systems
+- Improve developer understanding speed
+- Preserve technical accuracy
+- Structure knowledge for real-world implementation
 
 ---
 
-## 📊 Professional Identity
+## 📊 GitHub Stats
 
-- Technical Writer (Cybersecurity + Systems)
-- API Documentation Specialist
-- AI Systems Explainer
-- Developer Education Content Designer
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=drechi3&show_icons=true&theme=default)
 
 ---
 
 ## 📫 Contact
 
-Available for:
-- Cybersecurity documentation roles
-- API documentation engineering
-- AI systems explanation work
+Open to opportunities in:
+- Technical Writing (Cybersecurity, APIs, AI Systems)
+- Developer Documentation Roles
+- Security Documentation / Knowledge Engineering
+
+**Email:** drechimayne@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/igboanugo-david-ugochukwu-73136220b
+
+---
 
 GitHub: https://github.com/drechi3
