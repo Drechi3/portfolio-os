@@ -1,38 +1,31 @@
-# Portfolio OS
+## SENTINELIQ — SECURITY REASONING ENGINE
 
-A structured technical documentation system for cybersecurity, API systems, and AI understanding.
+SentinelIQ is a security reasoning engine that models how systems fail before they reach production.
 
----
-
-## SentinelIQ
-
-A cybersecurity intelligence system designed to model attack surfaces and identify vulnerabilities before deployment.
-
-It focuses on understanding how systems can be broken before they are built.
+It treats software architecture as a dynamic attack surface and simulates how vulnerabilities emerge through system interaction.
 
 ---
 
-## Core Capabilities
+### CORE ENGINE BEHAVIOR
 
-- Attack surface modeling  
-- Threat reasoning simulation  
-- Vulnerability path analysis  
-- System behavior interpretation  
-- Security-focused system thinking  
-
----
-
-## API Security Knowledge Base
-
-A structured documentation system for modern API security in distributed systems.
-
-Covers authentication, authorization, rate limiting, and secure API design patterns.
+- Builds attack surface maps from system structure
+- Simulates vulnerability propagation paths
+- Models system behavior under adversarial conditions
+- Identifies failure points before deployment
 
 ---
 
-## Purpose
+### OUTPUT THINKING MODEL
 
-This repository demonstrates structured thinking in:
-- Cybersecurity
-- API systems
-- Developer documentation design
+Instead of alerts or detection, SentinelIQ produces:
+
+- System risk pathways
+- Architectural weakness points
+- Exploitable interaction chains
+- Pre-deployment failure insights
+
+---
+
+### DESIGN PRINCIPLE
+
+Security is not a scan result — it is a system understanding problem.
