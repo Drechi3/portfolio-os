@@ -1,0 +1,12 @@
+[
+  {
+    "name": "SentinelIQ",
+    "description": "AI-powered cybersecurity intelligence and vulnerability analysis system",
+    "focus": "Cybersecurity + AI Systems"
+  },
+  {
+    "name": "API Security Knowledge Base",
+    "description": "Structured documentation series on securing modern APIs",
+    "focus": "API Security + System Design"
+  }
+]
